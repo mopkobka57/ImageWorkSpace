@@ -1,0 +1,8 @@
+C:\Users\Андрей\Downloads\WORK-master\WORK-master\ImageWorkSpace\ImageWorkSpace\bin\Debug\ImageWorkSpace.exe
+C:\Users\Андрей\Downloads\WORK-master\WORK-master\ImageWorkSpace\ImageWorkSpace\bin\Debug\ImageWorkSpace.pdb
+C:\Users\Андрей\Downloads\WORK-master\WORK-master\ImageWorkSpace\ImageWorkSpace\obj\x86\Debug\ImageWorkSpace.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Downloads\WORK-master\WORK-master\ImageWorkSpace\ImageWorkSpace\obj\x86\Debug\ImageWorkSpace.Form1.resources
+C:\Users\Андрей\Downloads\WORK-master\WORK-master\ImageWorkSpace\ImageWorkSpace\obj\x86\Debug\ImageWorkSpace.Properties.Resources.resources
+C:\Users\Андрей\Downloads\WORK-master\WORK-master\ImageWorkSpace\ImageWorkSpace\obj\x86\Debug\ImageWorkSpace.csproj.GenerateResource.Cache
+C:\Users\Андрей\Downloads\WORK-master\WORK-master\ImageWorkSpace\ImageWorkSpace\obj\x86\Debug\ImageWorkSpace.exe
+C:\Users\Андрей\Downloads\WORK-master\WORK-master\ImageWorkSpace\ImageWorkSpace\obj\x86\Debug\ImageWorkSpace.pdb
